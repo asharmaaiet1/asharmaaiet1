@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/updated-banner.jpg"
+    src="./assets/updated-banner.png"
     alt="Abhishek | Senior Specialist Advisor - Full-Stack & AI Engineering"
     width="100%"
   />
