@@ -56,7 +56,7 @@ The goal is to create a comprehensive, hands-on resource covering:
 - AI Agents and application engineering
 - AI system design, deployment and production practices
 
-🔗 **[Explore Complete AI Handbook](https://github.com/YOUR_GITHUB_USERNAME/complete-ai-handbook)**
+🔗 **[Explore Complete AI Handbook](https://github.com/asharmaaiet1/complete-ai-handbook)**
 
 ---
 
@@ -74,7 +74,7 @@ The goal is to create a comprehensive, hands-on resource covering:
 
 I'm always interested in meaningful conversations around software engineering, application architecture, AI engineering, and open-source projects.
 
-[LinkedIn](https://www.linkedin.com/in/asharmaaiet/) · [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
+[LinkedIn](https://www.linkedin.com/in/asharmaaiet/) · [GitHub](https://github.com/asharmaaiet1) · [Bold](https://in.bold.pro/my/asharmaaiet)
 
 ---
 
