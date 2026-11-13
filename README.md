@@ -1,3 +1,12 @@
+<p align="center">
+  <img
+    src="./assets/profile-banner.png"
+    alt="Abhishek | Senior Specialist Advisor - Full-Stack & AI Engineering"
+    width="100%"
+  />
+</p>
+
+# Hi, I'm Abhishek 👋
 # Hi, I'm Abhishek 👋
 
 ### Senior Specialist Advisor | Full-Stack & AI Engineering
