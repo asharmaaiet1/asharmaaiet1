@@ -7,7 +7,6 @@
 </p>
 
 # Hi, I'm Abhishek 👋
-# Hi, I'm Abhishek 👋
 
 ### Senior Specialist Advisor | Full-Stack & AI Engineering
 
