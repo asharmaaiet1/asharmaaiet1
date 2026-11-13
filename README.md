@@ -1,6 +1,6 @@
 # Hi, I'm Abhishek 👋
 
-### Senior Technical Leader | Full-Stack & AI Engineering
+### Senior Specialist Advisor | Full-Stack & AI Engineering
 
 Building scalable software, designing modern application architectures, and exploring the next generation of AI-powered applications.
 
