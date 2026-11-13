@@ -74,7 +74,7 @@ The goal is to create a comprehensive, hands-on resource covering:
 
 I'm always interested in meaningful conversations around software engineering, application architecture, AI engineering, and open-source projects.
 
-[LinkedIn](https://www.linkedin.com/in/asharmaaiet/) · [GitHub](https://github.com/asharmaaiet1) · [Bold](https://in.bold.pro/my/asharmaaiet)
+[LinkedIn](https://www.linkedin.com/in/asharmaaiet/) · [GitHub](https://github.com/asharmaaiet1) · [Professional Profile](https://in.bold.pro/my/asharmaaiet)
 
 ---
 
